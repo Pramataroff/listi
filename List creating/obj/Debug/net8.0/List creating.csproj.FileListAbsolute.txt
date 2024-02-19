@@ -1,0 +1,14 @@
+C:\Milenski\listi\List creating\bin\Debug\net8.0\List creating.exe
+C:\Milenski\listi\List creating\bin\Debug\net8.0\List creating.deps.json
+C:\Milenski\listi\List creating\bin\Debug\net8.0\List creating.runtimeconfig.json
+C:\Milenski\listi\List creating\bin\Debug\net8.0\List creating.dll
+C:\Milenski\listi\List creating\bin\Debug\net8.0\List creating.pdb
+C:\Milenski\listi\List creating\obj\Debug\net8.0\List creating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Milenski\listi\List creating\obj\Debug\net8.0\List creating.AssemblyInfoInputs.cache
+C:\Milenski\listi\List creating\obj\Debug\net8.0\List creating.AssemblyInfo.cs
+C:\Milenski\listi\List creating\obj\Debug\net8.0\List creating.csproj.CoreCompileInputs.cache
+C:\Milenski\listi\List creating\obj\Debug\net8.0\List creating.dll
+C:\Milenski\listi\List creating\obj\Debug\net8.0\refint\List creating.dll
+C:\Milenski\listi\List creating\obj\Debug\net8.0\List creating.pdb
+C:\Milenski\listi\List creating\obj\Debug\net8.0\List creating.genruntimeconfig.cache
+C:\Milenski\listi\List creating\obj\Debug\net8.0\ref\List creating.dll
